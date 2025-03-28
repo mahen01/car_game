@@ -1,0 +1,34 @@
+Car Racing Game in C++
+
+Description:
+This is a simple console-based car racing game developed in C++ using the Windows console API. The player controls a car that moves left or right to avoid obstacles (enemy cars) while aiming to survive as long as possible and achieve the highest score.
+
+Features:
+
+  Console-based gameplay
+  
+  Smooth movement and enemy generation
+  
+  Collision detection
+  
+  Score tracking
+  
+  Game over and restart options
+  
+  Instructions menu
+
+How to Play:
+  
+  Start the game by running the compiled executable.
+  
+  Use the following keys to control the car:
+  
+      Press 'a' to move left.
+      
+      Press 'd' to move right.
+      
+      Press 'ESC' to exit the game.
+  
+  Avoid collisions with enemy cars.
+  
+  The game ends when a collision occurs, and the final score is displayed.
